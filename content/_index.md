@@ -30,4 +30,4 @@ As much as we would like to we don't. We provide tailmade solutions to businesse
 | Name             | Position    |  Photo                                                                                                                         | Description |
 | ---------------  | ----------- | -------------------------------------------------------------------------------------------------------------------------------| ----------- |
 | **Asish Panda**      | **Captain**     |<img src="https://achebazaarpublic.s3.ap-south-1.amazonaws.com/TeamPhoto/asish-circle.png"  alt="1" width = 75px height = 75px >     | Build build. Thats what I do. When not building I play games and ride bike.         |
-| **Viswajeet Lenka**  | **chief mate**  |<img src="https://achebazaarpublic.s3.ap-south-1.amazonaws.com/TeamPhoto/viswajeet_circle.png"  alt="1" width = 75px height = 75px > | I do magic.            |
+| **Viswajeet Lenka**  | **chief mate**  |<img src="https://achebazaarpublic.s3.ap-south-1.amazonaws.com/TeamPhoto/viswajeet_circle.png"  alt="1" width = 75px height = 75px > | Eat Sleep Think Code Repeat. Team Machine 💻.
