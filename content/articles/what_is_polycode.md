@@ -33,5 +33,4 @@ When I am not working, I play video games, hangout with my friends and family, r
 Earlier I found new technologies amusing and was impressed how they work. 
 Now I build them with all scalable and safe methodologies available in the industry which directly or indirectly impacts the world and its people through Polycode. 
 I believe anything and everything is possible through technology.
-If what is written above interests you, you can find me on Twitter.
-[Twitter](https://twitter.com/ViswajeetLenka)
+If what is written above interests you, you can find me on [Twitter](https://twitter.com/ViswajeetLenka).
