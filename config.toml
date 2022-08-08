@@ -7,7 +7,7 @@ googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
   description = "Polycode Services in a nutshell"
-  images = ['/digital-garden-logo.png']
+  images = ['images/logo_polycode.png']
 
 [Params.newsletter]
   title = "Polycode Newsletter"
