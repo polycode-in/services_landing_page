@@ -30,7 +30,7 @@ Got into IT industry where I saw its real impact on people's lives. Now I try to
 When I am not working, I play video games, hangout with my friends and family, ride bike and watch anime. I am in Twitter if you wanna know more :)
 
 ### Viswajeet Lenka
-I was into technology since I was 10. Earlier I found new technologies amusing and was impressed how they work. 
-Now I build them with all scalable and safe methodologies available in the industry which directly or indirectly impacts the world and its people through Polycode.
-Apart from building, I play games, I do monochromic photography. 
+Earlier I found new technologies amusing and was impressed how they work. 
+Now I build them with all scalable and safe methodologies available in the industry which directly or indirectly impacts the world and its people through Polycode. 
+I believe anything and everything is possible through technology.
 If what is written above interests you, you can find me on Twitter. ;)
