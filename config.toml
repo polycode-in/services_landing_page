@@ -1,0 +1,41 @@
+baseURL = "https://master.deovmz2f56lsd.amplifyapp.com/"
+languageCode = "en-us"
+title = "Polycode Services"
+theme = 'digitalgarden'
+
+googleAnalytics = "UA-PROPERTY_ID"
+
+[Params]
+  description = "Polycode Services in a nutshell"
+  images = ['/digital-garden-logo.png']
+
+[Params.newsletter]
+  title = "Polycode Newsletter"
+  description = "Weekly insights into digital space"
+  path = "https://www.getrevue.co/profile/polycode/add_subscriber"
+
+[menu]
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  name = 'Articles'
+  url = '/articles'
+  weight = 2
+
+[[menu.social]]
+  name = 'Email'
+  url = 'mailto:asish.panda@polycode.in'
+  weight = 1
+
+
+
+# syntax highlight settings
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    # Enable to include inline HTML
+    unsafe = true
+    
