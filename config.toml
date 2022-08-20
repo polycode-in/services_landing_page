@@ -22,7 +22,6 @@ googleAnalytics = "UA-PROPERTY_ID"
 [[menu.main]]
   name = 'About us'
   url = '/about-us'
-  params.header = true
   weight = 2
 
 [[menu.social]]
