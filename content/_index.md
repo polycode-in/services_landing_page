@@ -29,6 +29,8 @@ As much as we would like to we don't. We provide tailmade solutions to businesse
 #### Asish Panda -> asish.panda@polycode.in
 #### Viswajeet Lenka -> viswajeet.lenka@polycode.in
 
+<hr />
+
 ### Meet the crew of our ship!<a name="team"></a>
 
 | Name             | Position    |  Photo                                                                                                                         | Description |

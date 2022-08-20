@@ -20,8 +20,9 @@ googleAnalytics = "UA-PROPERTY_ID"
   url = '/'
   weight = 1
 [[menu.main]]
-  name = 'Articles'
-  url = '/articles'
+  name = 'About us'
+  url = '/about-us'
+  params.header = true
   weight = 2
 
 [[menu.social]]
