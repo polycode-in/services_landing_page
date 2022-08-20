@@ -25,6 +25,10 @@ As much as we would like to we don't. We provide tailmade solutions to businesse
 * **Data scraping, storage, transformation** 💾.
 * **AI/ML solutions** 🦾.
 
+### Contact us
+#### Asish Panda -> asish.panda@polycode.in
+#### Viswajeet Lenka -> viswajeet.lenka@polycode.in
+
 ### Meet the crew of our ship!<a name="team"></a>
 
 | Name             | Position    |  Photo                                                                                                                         | Description |

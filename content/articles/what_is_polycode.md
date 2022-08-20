@@ -1,6 +1,7 @@
 ---
 title: 1. What exactly is Polycode?
 date: 8th August 2022
+author: Asish Panda
 ---
 
 ## Short Answer -> Digital Agency
@@ -12,7 +13,7 @@ counter strike, pubg, valorant, hashtags, meme, reel, viral....
 
 **Polycode** can help you if are not really sure what **links these `digital ideas`** together **/ OR /** you know what ties it together but do not know where and how to start making it. 
 We will help you connect your idea of `digital` into your life and business. How will it help your business? How much **money can you save**?
-Will the `digital system` require **human assistance** in future? To what extent can it be **`automated**`? Will its lifetime **cost outweight its return**?
+Will the `digital system` require **human assistance** in future? To what extent can it be **automated**? Will its lifetime **cost outweight its return**?
 We will help you answer these questions and **build it as close to your idea**.
 
 ## Why Polycode?
