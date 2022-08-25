@@ -9,7 +9,9 @@ title: Homepage
 3. [Meet the Team](#team)
 <hr />
 
-### Digital agency with guaranteed satisfaction<a name="introduction"></a>
+[Mail Us!](mailto:asish.panda@polycode.in?subject=Help%20Me%20With%20Digital%20Work)
+
+## Digital agency with guaranteed satisfaction<a name="introduction"></a>
 We are not kidding. Our daily work with computers means we bleed and sweat code. Digital work may feel scary but
 we make it mind-blowingly simple.
 * ⚡️ **< 48 HOURS**⚡️for first turnaround. 
@@ -17,7 +19,11 @@ we make it mind-blowingly simple.
 * ⭐️**LONG TERM THINKING**⭐️. We build thinking about the future.
 * 🔥**UNLIMITED REVISIONS**🔥 till we get it right.
 
-### Do we build anything under the digital sun? <a name="services"></a>
+Want to know more about us? Here you go!
+* → [Who are we?](/about-us/who_are_we/)
+* → [Know our values](/about-us/our_values/)
+
+## Do we build anything under the digital sun? <a name="services"></a>
 As much as we would like to we don't. We provide tailmade solutions to businesses. We expect to provide these **solutions within 30 days** ⚡️.
 * **Protoype or first version product for founders** 🦊. These usually manifest as web apps or mobile apps(have something else in mind? Contact us!)
 * **Ecommerce websites** 🛒. 
@@ -25,15 +31,20 @@ As much as we would like to we don't. We provide tailmade solutions to businesse
 * **Data scraping, storage, transformation** 💾.
 * **AI/ML solutions** 🦾.
 
-### Contact us
+## Contact us
 #### Asish Panda -> asish.panda@polycode.in
 #### Viswajeet Lenka -> viswajeet.lenka@polycode.in
 
+[Mail Us!](mailto:asish.panda@polycode.in?subject=Help%20Me%20With%20Digital%20Work)
+
 <hr />
 
-### Meet the crew of our ship!<a name="team"></a>
+## Meet the crew of our ship!<a name="team"></a>
 
 | Name             | Position    |  Photo                                                                                                                         | Description |
 | ---------------  | ----------- | -------------------------------------------------------------------------------------------------------------------------------| ----------- |
 | **Asish Panda**      | **Captain**     |<img src="https://achebazaarpublic.s3.ap-south-1.amazonaws.com/TeamPhoto/asish-circle.png"  alt="1" width = 75px height = 75px >     | Build build. Thats what I do. When not building I play games and ride bike.         |
 | **Viswajeet Lenka**  | **chief mate**  |<img src="https://achebazaarpublic.s3.ap-south-1.amazonaws.com/TeamPhoto/viswajeet_circle.png"  alt="1" width = 75px height = 75px > | Eat Sleep Think Code Repeat. Team Machine 💻.
+
+
+[Mail Us!](mailto:asish.panda@polycode.in?subject=Help%20Me%20With%20Digital%20Work)

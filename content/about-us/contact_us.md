@@ -5,5 +5,5 @@ author: Asish Panda
 ---
 
 ### Emails
-* `asish.panda@polycode.in`
-* `viswajeet.lenka@polycode.in`
+* **asish.panda@polycode.in**
+* **viswajeet.lenka@polycode.in**
