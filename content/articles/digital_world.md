@@ -9,10 +9,6 @@ images:
 ## It is all around us
 Within 10 mins of waking, I would check my mobile. **Emails, messages, notifications**. What did I miss when I slept? That is my first curiosity of the morning.
 Once I am done with morning duties(you know nature's call and stuff), I would be curious with whats going on in the world. All news from each corner of the world in my fingertips. Now I know Elon Musk is going to buy Reddit only to cancel it because avatar look like bots. 
-<br>
-
-
-
 
 Time to go for office. Unfortunately today my car is being used by my friend to visit pick his wife from airport. Time for cab! **Ola or Uber**? Whichever is cheaper of course! VCs are paying anyway.
 Now I live in Bangalore so I need to listen to some **podcast**. You know because the traffic is packed. So I hop over to my to-listen list and pick one. Its the digital radio.
@@ -24,6 +20,9 @@ crunching in one place. The day mostly revolves around **excel, emails, zoom cal
 Now I reach home the same way I travelled and I feel exhausted. Its time for dinner! But guess what, cook isn't here and she took leave again without telling me! My boss would have
 gotten a heart attack if I did that. Anyway, without wasting any more time I go straight to **Swiggy**. I order Ramen from a Japanese store. My mom calls this glorified maggi.
 
+<br>
+
+{{< mail_us >}}
 
 ## Did I cover the tip of the iceberg?
 Probably not. We dont even realise how much of our daily life depends on some form of digital technology. Lets consider the digital data that exsists. However before that, lets refresh how computers measure and store data. Hold on tight as I guarantee the amount of data that exsists is just mind blowing!
@@ -55,4 +54,7 @@ of data that we consume and produce is unconditionally HUGE!
 ## Being Digital is Already The Norm
 Here in Polycode we have absolutely no doubt that being **digital is a necessity**. Our daily life revolves around digital information and services to make it easier, cheaper and faster. We strongly believe being digital empowers everyone. The business and its customers. It is a win-win situation. We strive to make the journey of digital transition 
 **beneficial, cheaper, profitable and most importantly stress free**. Dont hesitate to **reach out to us** for any enquiry, doubt and work. We are all ears!
+
+<br>
+{{< mail_us >}}
 

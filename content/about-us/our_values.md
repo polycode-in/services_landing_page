@@ -4,7 +4,6 @@ date: 20th August 2022
 author: Asish Panda
 ---
 
-<br>
 
 
 Values for us are code to live by. At polycode we know that we aren't equipped to handle all situations in optimal way.
@@ -18,3 +17,7 @@ think in probablistic manner. If there are 2 outcomes possible we put the two ou
 * **Focus on problems, answers would come to you** 🛬. There is an art at framing questions. Questions are the first point where our thinking begins. It is the question which guides the answer to its point. A wrong question answered might be `correct` but it does not solve the problem at hand. Therefore we spend considerable time on understanding, framing problems before diving into the solutions. Solutions are usually one of the last steps for us.
 * **Simple is beautiful** 🟣. Richard Feymann said, `if you can't explain to 5 year old kid, then you dont understand it`. We strive to make all our creations simple. This is hard to do, but its worth it. If we see something is getting too
 hard to understand or too big then we step back and trace back where we went wrong. 
+
+
+<br>
+{{< mail_us >}}

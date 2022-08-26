@@ -9,6 +9,7 @@ googleAnalytics = "UA-PROPERTY_ID"
 [Params]
   description = "Polycode Services in a nutshell"
   images = ['logo-polycode.png']
+  custom_css = ["css/tailwind.css", "css/main.css"]
 
 [Params.newsletter]
   title = "Polycode Newsletter"
@@ -45,5 +46,6 @@ googleAnalytics = "UA-PROPERTY_ID"
     unsafe = true
 
   
-  enableInlineShortcodes = true
+enableInlineShortcodes = true
+
     
