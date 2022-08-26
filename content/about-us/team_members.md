@@ -4,7 +4,7 @@ date: January 2, 2006
 author: Asish Panda
 ---
 
-[Mail Us!](mailto:asish.panda@polycode.in?subject=Help%20Me%20With%20Digital%20Work)
+<br>
 
 ### Asish Panda
 <img src="https://achebazaarpublic.s3.ap-south-1.amazonaws.com/TeamPhoto/asish-circle.png"  alt="Asish Panda picture" width = 150px height = 150px > 
@@ -13,6 +13,11 @@ Got into IT industry where I saw its real impact on people's lives. Now I try to
 
 When I am not working, I play video games, hangout with my friends and family, ride bike and watch anime. I am on [Twitter](https://twitter.com/kaichogami) if you wanna know more.
 
+<br>
+{{< mail_us >}}
+<br>
+<br>
+
 ### Viswajeet Lenka
 <img src="https://achebazaarpublic.s3.ap-south-1.amazonaws.com/TeamPhoto/viswajeet_circle.png"  alt="Asish Panda picture" width = 150px height = 150px > 
 
@@ -20,5 +25,3 @@ Earlier I found new technologies amusing and was impressed how they work.
 Now I build them with all scalable and safe methodologies available in the industry which directly or indirectly impacts the world and its people through Polycode. 
 I believe anything and everything is possible through technology.
 If what is written above interests you, you can find me on [Twitter](https://twitter.com/ViswajeetLenka).
-
-[Mail Us!](mailto:asish.panda@polycode.in?subject=Help%20Me%20With%20Digital%20Work)

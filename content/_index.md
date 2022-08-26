@@ -9,7 +9,7 @@ title: Homepage
 3. [Meet the Team](#team)
 <hr />
 
-[Mail Us!](mailto:asish.panda@polycode.in?subject=Help%20Me%20With%20Digital%20Work)
+{{< mail_us >}}
 
 ## Digital agency with guaranteed satisfaction<a name="introduction"></a>
 We are not kidding. Our daily work with computers means we bleed and sweat code. Digital work may feel scary but
@@ -35,11 +35,12 @@ As much as we would like to we don't. We provide tailmade solutions to businesse
 #### Asish Panda -> asish.panda@polycode.in
 #### Viswajeet Lenka -> viswajeet.lenka@polycode.in
 
-[Mail Us!](mailto:asish.panda@polycode.in?subject=Help%20Me%20With%20Digital%20Work)
-
-<hr />
+<br>
+{{< mail_us >}}
+<br>
 
 ## Meet the crew of our ship!<a name="team"></a>
+
 
 | Name             | Position    |  Photo                                                                                                                         | Description |
 | ---------------  | ----------- | -------------------------------------------------------------------------------------------------------------------------------| ----------- |
@@ -47,4 +48,4 @@ As much as we would like to we don't. We provide tailmade solutions to businesse
 | **Viswajeet Lenka**  | **chief mate**  |<img src="https://achebazaarpublic.s3.ap-south-1.amazonaws.com/TeamPhoto/viswajeet_circle.png"  alt="1" width = 75px height = 75px > | Eat Sleep Think Code Repeat. Team Machine 💻.
 
 
-[Mail Us!](mailto:asish.panda@polycode.in?subject=Help%20Me%20With%20Digital%20Work)
+{{< mail_us >}}

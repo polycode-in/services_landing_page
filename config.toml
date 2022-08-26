@@ -1,4 +1,5 @@
 baseURL = "https://master.deovmz2f56lsd.amplifyapp.com/"
+relativeURLs = "True"
 languageCode = "en-us"
 title = "Polycode Services"
 theme = 'digitalgarden'
@@ -42,4 +43,7 @@ googleAnalytics = "UA-PROPERTY_ID"
   [markup.goldmark.renderer]
     # Enable to include inline HTML
     unsafe = true
+
+  
+  enableInlineShortcodes = true
     
