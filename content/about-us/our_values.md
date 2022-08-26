@@ -5,7 +5,7 @@ author: Asish Panda
 ---
 
 <br>
-{{< mail_us >}}
+
 
 Values for us are code to live by. At polycode we know that we aren't equipped to handle all situations in optimal way.
 When we are presented in such situations we follow our values to minimise are risks, losses and regret even if it is

@@ -11,7 +11,7 @@ Within 10 mins of waking, I would check my mobile. **Emails, messages, notificat
 Once I am done with morning duties(you know nature's call and stuff), I would be curious with whats going on in the world. All news from each corner of the world in my fingertips. Now I know Elon Musk is going to buy Reddit only to cancel it because avatar look like bots. 
 <br>
 
-{{< mail_us >}}
+
 
 
 Time to go for office. Unfortunately today my car is being used by my friend to visit pick his wife from airport. Time for cab! **Ola or Uber**? Whichever is cheaper of course! VCs are paying anyway.
@@ -56,4 +56,3 @@ of data that we consume and produce is unconditionally HUGE!
 Here in Polycode we have absolutely no doubt that being **digital is a necessity**. Our daily life revolves around digital information and services to make it easier, cheaper and faster. We strongly believe being digital empowers everyone. The business and its customers. It is a win-win situation. We strive to make the journey of digital transition 
 **beneficial, cheaper, profitable and most importantly stress free**. Dont hesitate to **reach out to us** for any enquiry, doubt and work. We are all ears!
 
-{{< mail_us >}}

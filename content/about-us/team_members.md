@@ -14,7 +14,7 @@ Got into IT industry where I saw its real impact on people's lives. Now I try to
 When I am not working, I play video games, hangout with my friends and family, ride bike and watch anime. I am on [Twitter](https://twitter.com/kaichogami) if you wanna know more.
 
 <br>
-{{< mail_us >}}
+
 <br>
 <br>
 
