@@ -1,6 +1,7 @@
 ---
 title: 1. Digital World Is The Present
-date: 8th August 2022
+date_raw: 8th August 2022
+updated_at: 27th August 2022
 author: Asish Panda
 images: 
 - https://achebazaarpublic.s3.ap-south-1.amazonaws.com/polycode-assets/polycode_article_1_bg.jpg
@@ -44,7 +45,7 @@ Probably not. We dont even realise how much of our daily life depends on some fo
 * This pattern can go on but this is enough for our purpose.
 * The **total data** right now in the world is estimated to be about **80 zettabyte(as of 2022)**.
 
-<img src="https://achebazaarpublic.s3.ap-south-1.amazonaws.com/polycode-assets/data_in_world.png"  alt="Data of the world"  >
+{{< figure src="https://achebazaarpublic.s3.ap-south-1.amazonaws.com/polycode-assets/data_in_world.png" title="Growth of data" >}}
 
 <br>
 

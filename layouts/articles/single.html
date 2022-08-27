@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{ $permalink := .RelPermalink }}
-{{ $date := .Date.Format "January 2, 2006" }}
+<!-- {{ $date := .Date.Format "January 2, 2006" }} -->
 {{ $lastmod := .Lastmod.Format "January 2, 2006" }}
 
 <div class="flex h-screen relative">
@@ -41,8 +41,22 @@
 
       {{ $title := .Params.title }}
       <h1 class="!mb-2">{{ $title }}</h1>
-      <div class="grid grid-cols-2 gap-10">
-      </div>
+
+
+    <br>
+    <div class="grid grid-cols-2 gap-4">
+      
+      <span class="border border-purple-400 rounded-full px-4 text-sm text-purple-400 py-0.5 flex-auto ">
+        Published: <strong>{{ .Params.date_raw }}</strong>
+      </span>
+      <span class="border border-purple-400 rounded-full px-4 text-sm text-purple-400 py-0.5 flex-auto ">
+        Author: <strong>{{ .Params.author }}</strong> 
+      </span>
+      <span class="border border-purple-400 rounded-full px-4 text-sm text-purple-400 py-0.5 flex-auto ">
+        Updated: <strong>{{ .Params.updated_at }}</strong> 
+      </span>
+    </div>
+    <br>
 
 	  {{ if .Date }}
       <p class="text-sm text-slate-500 !mb-8"> Planted {{ $date }}
