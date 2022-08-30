@@ -1,4 +1,4 @@
-baseURL = "https://master.deovmz2f56lsd.amplifyapp.com/"
+baseURL = "https://www.polycode.in/"
 relativeURLs = "True"
 languageCode = "en-us"
 title = "Polycode Services"
@@ -8,8 +8,9 @@ googleAnalytics = "UA-PROPERTY_ID"
 
 [Params]
   description = "Polycode Services in a nutshell"
-  images = ['logo-polycode.png']
+  images = ['/images/logo-polycode.png']
   custom_css = ["css/tailwind.css", "css/main.css"]
+  favicon = '/images/logo-polycode.png'
 
 [Params.newsletter]
   title = "Polycode Newsletter"

@@ -4,7 +4,7 @@ date_raw: 8th August 2022
 updated_at: 27th August 2022
 author: Asish Panda
 images: 
-- https://achebazaarpublic.s3.ap-south-1.amazonaws.com/polycode-assets/polycode_article_1_bg.jpg
+- /images/polycode_article_1_bg.jpg
 ---
 
 ## It is all around us
