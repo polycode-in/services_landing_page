@@ -3,6 +3,7 @@ relativeURLs = "True"
 languageCode = "en-us"
 title = "Polycode Services"
 theme = 'digitalgarden'
+Keywords = ['digital-agency', 'agency', 'IT', 'IT services', 'freelance', 'fast-turnaround']
 
 googleAnalytics = "UA-PROPERTY_ID"
 
@@ -11,6 +12,8 @@ googleAnalytics = "UA-PROPERTY_ID"
   images = ['/images/logo-polycode.png']
   custom_css = ["css/tailwind.css", "css/main.css"]
   favicon = '/images/logo-polycode.png'
+  math = true
+
 
 [Params.newsletter]
   title = "Polycode Newsletter"

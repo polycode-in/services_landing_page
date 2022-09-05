@@ -2,20 +2,19 @@
 title: 1. Digital World Is The Present
 date_raw: 8th August 2022
 updated_at: 27th August 2022
-author: Asish Panda
+Author: Asish Panda
 images: 
 - /images/polycode_article_1_bg.png
 ---
 
 ## It is all around us
 Within 10 mins of waking, I would check my mobile. **Emails, messages, notifications**. What did I miss when I slept? That is my first curiosity of the morning.
-Once I am done with morning duties(you know nature's call and stuff), I would be curious with whats going on in the world. All news from each corner of the world in my fingertips. Now I know Elon Musk is going to buy Reddit only to cancel it because avatar look like bots. 
+Once I am done with morning duties ( you know nature's call and stuff ) , I would be curious with whats going on in the world. All news from each corner of the world in my fingertips. Now I know Elon Musk is going to buy Reddit only to cancel it because avatar look like bots. 
 
-Time to go for office. Unfortunately today my car is being used by my friend to visit pick his wife from airport. Time for cab! **Ola or Uber**? Whichever is cheaper of course! VCs are paying anyway.
+Time to go for office. Unfortunately today my car is being used by my friend to pick his wife from airport. Time for cab! **Ola or Uber**? Whichever is cheaper of course! VCs are paying anyway.
 Now I live in Bangalore so I need to listen to some **podcast**. You know because the traffic is packed. So I hop over to my to-listen list and pick one. Its the digital radio.
 Finally after spending an eternity in cab I reach my office. I notice the new coffee machine which can be used from my app. Well thats digital but I think I will pass for now.
-After talking to my collegues about some **netflix** show, I finally take a seat and switch on my laptop. First thing I open is **excel** which makes all note taking, calculation, data
-crunching in one place. The day mostly revolves around **excel, emails, zoom calls, dealing with boss, instagram, google** and so on. 
+After talking to my collegues about some **netflix** show, I finally take a seat and switch on my laptop. First thing I open is **excel** which makes all note taking, calculation, data crunching in one place. The day mostly revolves around **excel, emails, zoom calls, dealing with boss, instagram, google** and so on. 
 <br>
 
 Now I reach home the same way I travelled and I feel exhausted. Its time for dinner! But guess what, cook isn't here and she took leave again without telling me! My boss would have
@@ -34,16 +33,23 @@ Probably not. We dont even realise how much of our daily life depends on some fo
     * **Each character** takes about **1 byte** of storage.
     * **1024 characters** would take **1024 bytes** of storage
     * **1024 bytes = 1 kilobyte**
-* 1024 number comes because of how bytes are derived(multiple of 8)
+* 1024 number comes because of how bytes are derived, multiple of 8
 * Now this storage unit goes on with similar pattern
-    * **1024 kilobyte = 1 megabyte**
-    * **1024 megabyte = 1 gigabyte**
-    * **1024 gigabyte = 1 terabyte**
-    * **1024 terabyte = 1 petabyte**
-    * **1024 petabyte = 1 exabyte**
-    * **1024 exabyte = 1 zettabyte** 
+    * $1024 kilobyte = 1 megabyte$
+    * $1024 megabyte = 1 gigabyte$
+    * $1024 gigabyte = 1 terabyte$
+    * $1024 terabyte = 1 petabyte$
+    * $1024 petabyte = 1 exabyte$
+    * $1024 exabyte = 1 zettabyte$
 * This pattern can go on but this is enough for our purpose.
-* The **total data** right now in the world is estimated to be about **80 zettabyte(as of 2022)**.
+* **1024 characters in 1MB**
+* $1024 * 1024 = 10 million$ characters in $1GB$
+* $10mil * 1024 = 10 billion$  characters in $1TB$ 
+* $10^{9} * 10^{3} = 10^{12}$  characters in $1petabyte$
+* $10^{12} * 10^{3} = 10^{15}$  characters in $1exabyte$
+* $10^{15} * 10^{3} = 10^{18}$  characters in $zettabyte$
+
+This gets harder and harder to think in billion or trillions. The amount is astoundingly BIG! The **total data** right now in the world is estimated to be about **80 zettabyte(as of 2022)**.
 
 {{< figure src="https://achebazaarpublic.s3.ap-south-1.amazonaws.com/polycode-assets/data_in_world.png" title="Growth of data" >}}
 
