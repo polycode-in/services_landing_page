@@ -1,7 +1,7 @@
 ---
 title: 2. Writing That First Program
 date_raw: 5th September 2022
-updated_at: Nil
+updated_at: 5th September 2022
 Author: Asish Panda
 images: 
 - /images/polycode_article_2_bg.png
@@ -18,7 +18,7 @@ Lets say you want to learn to drive so that it makes your daily life easier. But
 For learning to code, you need a desktop/laptop(which I assume 80% of our readers should have access to one). You need a **force** which compels you to learn. In case of driving its the convinience you get in your daily transportation. In case of programming, **its curiosity, a business need, hobby, for career and maybe for some other reasons**. These reasons are personal and differs for everyone. The only thing matters is that you have decided to learn to code. And finally you need a tutor or a mentor who tells you what to do. Mentors in this age can be a person who lives near you or lives 3500Km away from you. It can be a book or an Ebook. It can be a magazine series or a series of blog posts. It can be a coaching center or an online course. There are a lot of options to choose from.
 
 
-So if you, the non-tech person decides to write the first program to understand where really your money goes into, **Polycode has come up with an innovative solution**. We will divide your task or the **problem statement into smaller chunks** like we always do. However **we will keep a certain, beginner friendly, low priority and easy chunk of work reserved for you**. We will sit together and discuss the nuances that goes behind just only for that piece of work. Then slowly with the pace of project you will get your hands dirty with some code** and get to understand the workings behind it. Learn by working as they say.
+So if you, the non-tech person decides to write the first program to understand where really your money goes into, **Polycode has come up with an innovative solution**. We will divide your task or the **problem statement into smaller chunks** like we always do. However **we will keep a certain, beginner friendly, low priority and easy chunk of work reserved for you**. We will sit together and discuss the nuances that goes behind just only for that piece of work. Then slowly with the pace of project you will get your hands dirty with some code and get to understand the workings behind it. Learn by working as they say.
 
 <br>
 
