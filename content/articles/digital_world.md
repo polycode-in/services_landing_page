@@ -53,7 +53,6 @@ This gets harder and harder to think in billion or trillions. The amount is asto
 
 {{< figure src="https://achebazaarpublic.s3.ap-south-1.amazonaws.com/polycode-assets/data_in_world.png" title="Growth of data" >}}
 
-<br>
 
 The scale is absolutely mind blowing. Just 10 years back were **barely 20 zettabytes** and now its **more than 4 times**. Its gonna **double in next 3-4 years** as per estimate. The amount
 of data that we consume and produce is unconditionally HUGE!

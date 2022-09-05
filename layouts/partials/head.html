@@ -12,8 +12,8 @@
   
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}" />
     
-    {{- if .Keywords }}
-    <meta name="keywords" content="{{ delimit .Keywords "," }}" />
+    {{- if .Site.Params.keywords }}
+    <meta name="keywords" content="{{ delimit .Site.Params.keywords "," }}" />
     {{ end -}}
     
     {{- if .Params.Author }}

@@ -1,7 +1,6 @@
 ---
 title: 1. Who are we?
 date_raw: 8th August 2022
-author: Asish Panda
 ---
 
 ## Short Answer -> Digital Agency

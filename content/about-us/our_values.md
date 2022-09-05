@@ -1,7 +1,6 @@
 ---
 title: 2. Our Values
 date_raw: 20th August 2022
-author: Asish Panda
 ---
 
 

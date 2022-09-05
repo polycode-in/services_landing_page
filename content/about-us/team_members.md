@@ -1,7 +1,6 @@
 ---
 title: 4. Team Members
 date_raw: January 2, 2006
-author: Asish Panda
 ---
 
 ### Asish Panda

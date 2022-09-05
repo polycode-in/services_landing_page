@@ -1,7 +1,6 @@
 ---
 title: 3. Why us?
 date_raw: 20th August 2022
-author: Asish Panda
 ---
 
 With so many choices to go with, why should I choose Polycode? Thats a good question. Heres what we provide which is insanely a big bargain for you:
