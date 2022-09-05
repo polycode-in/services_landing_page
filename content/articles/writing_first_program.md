@@ -1,7 +1,7 @@
 ---
 title: 2. Writing That First Program
-date_raw: 30th August 2022
-updated_at: 5th September 2022
+date_raw: 5th September 2022
+updated_at: Nil
 author: Asish Panda
 images: 
 - /images/polycode_article_2_bg.png
